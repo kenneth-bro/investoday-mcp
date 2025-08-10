@@ -1,6 +1,6 @@
 # 今日投资数据MCP服务
 
-<img src="./logo-640.png" alt="logo-640" style="zoom:10%;" />
+<img src="./logo-640.png" alt="logo-640" height="100px" />
 
 ## 版本
 
